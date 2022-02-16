@@ -1,0 +1,10 @@
+MiniDumpDotNet
+Copyright 2022 White Oak Security
+
+This product includes software developed at 
+White Oak Security (https://www.whiteoaksecurity.com/)
+
+The Initial Developer of some parts of this software, which are copied from, derived from, or inspired by 
+NanoDump (https://github.com/helpsystems/nanodump), is Help Systems (https://www.helpsystems.com/). Large 
+sections of non-applicable code were removed, and the codebase was reorganized in the production of the 
+MiniDumpDotNet project.
